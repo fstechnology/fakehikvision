@@ -1,0 +1,13 @@
+{
+    "addorganization": [
+        {
+            "code": "0",
+            "msg": "Success",
+            "data": {
+                "orgIndexCode": "8",
+                "orgName": "TUV SUD",
+                "parentOrgIndexCode": "1"
+            }
+        }
+    ]
+}
